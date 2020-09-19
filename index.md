@@ -2,7 +2,7 @@
 layout: page
 title: SehwanMoon's blog for Artificial Intelligent
 #subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /pexels-pixabay-270623.jpg
+cover-img: /code-1839406_1920.jpg
 ---
 
 <br/>
