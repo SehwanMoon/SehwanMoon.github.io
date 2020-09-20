@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kubernetes Forum 2019 Speaker
-subtitle: 쿠버네티스 포럼 2019 발표
-gh-repo: seokho-son/seokho-son.github.io
+title: [논문 요약 2020-01] Gradient Surgery for Multi-Task Learning
+#subtitle: 쿠버네티스 포럼 2019 발표
+gh-repo: SehwanMoon/SehwanMoon.github.io
 gh-badge: [star, fork, follow]
-tags: [Kubernetes, seokho son, localization, open source]
+tags: [multitask-learning, transfer-learning]
 comments: true
 ---
 
