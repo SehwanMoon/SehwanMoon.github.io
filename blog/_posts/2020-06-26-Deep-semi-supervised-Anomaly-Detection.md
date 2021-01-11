@@ -21,8 +21,8 @@ SVDD의 목적은 Normal data를 포함하는 구의 크기를 줄이는 것을 
 Deep SVDD는 SVDD와 유사하지만, 구의 반지름과 네트워크의 W만 학습함.
 첫번째 term은 구의 중심과 data사이의 거리를 최소화 함. W와 R을 교대로 optimization 함.
 pre-trained CAE의 encoder weight를 W의 초기값으로 사용함. Bias를 사용하지 않음으로서 W와 R이 0으로 수렴하는 것을 방지.
-![loss1](/assets/img/20210111_154902.jpg)
-Format: ![Alt Text](url)
+![loss1](/assets/img/20210111_154902.jpg){: width="80%" height="80%"}
+
 
 Deep SAD 
 unsupervised AD (m = 0)인 경우, Deep SVDD와 같음. 
@@ -31,7 +31,7 @@ pre-trained CAE에서는 normal sample의 latent는 구에 가깝게 (low entrop
 unlabeled sample은 첫번째 텀으로 학습.
 Normal sample (y=1)인 경우는 두번째 텀을 줄이도록 학습함. 즉, 구에 가깝게 학습함.
 Abnormal sample (y=-1)인 경우는 두번째 텀이 역수가 됨. 구에 멀게 학습함. 
-![loss2](/assets/img/20210111_154943.jpg)
-Format: ![Alt Text](url)
+![loss2](/assets/img/20210111_154943.jpg){: width="90%" height="90%"}
+
 Health care domain에서 Abnormal sample이 종종 보이는데, 이와 같은 샘플은 분류 시 애초에 제외 하는게 잘못된 판단을 내리는 것보다 
 더 좋아 보임. 
