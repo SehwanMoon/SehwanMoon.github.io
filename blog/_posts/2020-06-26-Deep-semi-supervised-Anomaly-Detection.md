@@ -15,6 +15,9 @@ comments: true
 _SVDD(Support Vector Data Description, 2004)_와 _Deep SVDD(ICLR2018)_와 같은 알고리즘들이 널리 사용되고 있으며,   
 기존 _SVDD_는 non-linearity를 추가 하기 위해 kernel을 사용하였다면, _Deep SVDD_는 CNN를 사용하였음.   
 
+아래 (b)는 _SVDD_와 _Deep SVDD_에서 사용하는 unsupervised anomaly detection을 보여주며,  
+(f)는 _Deep SAD_에서 사용하는 semi-supervised anomaly detection을 보여줌. 
+
 ![fig1](/assets/img/20210111_193117.jpg){: width="80%" height="80%"}
 
 _SVDD_의 목적은 Normal data를 포함하는 구의 크기를 줄이는 것을 목표로 함. slack variable term을 통해 일부 완화.  
