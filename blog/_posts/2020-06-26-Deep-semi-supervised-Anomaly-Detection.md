@@ -18,7 +18,7 @@ _SVDD(Support Vector Data Description, 2004)_와 _Deep SVDD(ICLR2018)_와 같은
 아래 (b)는 _SVDD_와 _Deep SVDD_에서 사용하는 unsupervised anomaly detection을 보여주며,  
 (f)는 _Deep SAD_에서 사용하는 semi-supervised anomaly detection을 보여줌. 
 
-![fig1](/assets/img/20210111_193117.jpg){: width="80%" height="80%"}
+![fig1](/assets/img/20210111_193117.jpg)
 
 _SVDD_의 목적은 Normal data를 포함하는 구의 크기를 줄이는 것을 목표로 함. slack variable term을 통해 일부 완화.  
 구의 반지름, 중심, soft margin에 대한 penalty을 학습함.   
