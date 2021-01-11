@@ -1,9 +1,9 @@
 ---
 layout: post
 title: [간단 후기] Deep semi-supervised Anomaly Detection
-#subtitle: https://www.youtube.com/watch?v=l--BSilQQqU&t=2155s
 gh-repo: SehwanMoon/SehwanMoon.github.io
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/cat-taesik-wide.jpg
 tags: [anomaly detection]
 comments: true
 ---
