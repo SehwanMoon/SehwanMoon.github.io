@@ -39,14 +39,10 @@ comments: true
 Abnormal sample (y=-1)인 경우는 두번째 텀이 역수가 됨. 구에 멀게 학습함.   
 ![loss2](/assets/img/20210111_154943.jpg)
 
-https://openreview.net/attachment?id=HkgH0TEYwH&name=original_pdf
 
 -Health care domain에서 Abnormal sample이 종종 보이는데, 이와 같은 샘플은 분류 시 애초에 제외 하는게 잘못된 판단을 내리는 것보다 
 더 좋아 보임. 
 
-@article{ruff2019deep,
-  title={Deep semi-supervised anomaly detection},
-  author={Ruff, Lukas and Vandermeulen, Robert A and G{\"o}rnitz, Nico and Binder, Alexander and M{\"u}ller, Emmanuel and M{\"u}ller, Klaus-Robert and Kloft, Marius},
-  journal={arXiv preprint arXiv:1906.02694},
-  year={2019}
-}
+Reference  
+Ruff, Lukas, et al. "Deep semi-supervised anomaly detection." arXiv preprint arXiv:1906.02694 (2019).
+(https://openreview.net/attachment?id=HkgH0TEYwH&name=original_pdf)
