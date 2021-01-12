@@ -2,7 +2,7 @@
 layout: post
 title: Deep semi-supervised Anomaly detection
 subtitle: Each post also has a subtitle
-gh-repo: seokho-son/seokho-son.github.io
+gh-repo: SehwanMoon/SehwanMoon.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true
