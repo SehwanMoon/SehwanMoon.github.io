@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Deep semi-supervised Anomaly detection
-subtitle: Each post also has a subtitle
+subtitle: ICLR 2020
 gh-repo: SehwanMoon/SehwanMoon.github.io
 gh-badge: [star, fork, follow]
-tags: [test, markdown]
+tags: []
 comments: true
 ---
 
