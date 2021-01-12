@@ -1,10 +1,10 @@
 ---
 layout: post
-title: [간단 후기] Deep semi-supervised Anomaly Detection
-gh-repo: SehwanMoon/SehwanMoon.github.io
+title: Markdown Sample
+subtitle: Each post also has a subtitle
+gh-repo: seokho-son/seokho-son.github.io
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/cat-taesik-wide.jpg
-tags: [anomaly detection]
+tags: [test, markdown]
 comments: true
 ---
 
